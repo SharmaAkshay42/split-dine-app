@@ -22,3 +22,8 @@ GET /dishes - lists all dishes
 GET /dishes/{dishId} - lists dishes by their dish_id
 
 GET /orders - lists all orders
+
+## Some screenshots of REST tests
+
+![Alt text](https://github.com/SharmaAkshay42/split-dine-app/blob/main/dishes_types.png "Only dishes by specified type")
+
